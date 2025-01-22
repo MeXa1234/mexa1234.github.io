@@ -86,3 +86,14 @@ conversantmedia.com, 100706, RESELLER, 03113cd04947736d
 media.net, 8CU12AQ1Y, RESELLER
 smaato.com, 1100057444, RESELLER, 07bcf65f187117b4
 bematterfull.com, 89720975345, RESELLER
+rubiconproject.com, 27052, reseller, 0bfd66d529a55807
+rubiconproject.com, 25482, reseller, 0bfd66d529a55807
+pubmatic.com, 163120, reseller, 5d62403b186f2ace
+playdigo.com, 2048, reseller, 92011346d63d3c30
+selectmedia.asia, 0f305c6460e4a8b30154d9cc, reseller, e365c871a27c655d
+adform.com, 2919, reseller, 9f5210a2f0999e32
+media.net, 8cuh5vf7j, reseller
+rubiconroject.com, 26144, reseller, 0bfd66d529a55807
+thebrave.io, 1234765, reseller, c25b2154543746ac
+appnexus.com, 12878, reseller, f5ab79cb980f11d1
+rubiconproject.com, 24752, reseller, 0bfd66d529a55807
