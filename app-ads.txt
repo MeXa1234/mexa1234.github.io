@@ -97,3 +97,19 @@ rubiconroject.com, 26144, reseller, 0bfd66d529a55807
 thebrave.io, 1234765, reseller, c25b2154543746ac
 appnexus.com, 12878, reseller, f5ab79cb980f11d1
 rubiconproject.com, 24752, reseller, 0bfd66d529a55807
+rubiconproject.com, 27130, reseller, 0bfd66d529a55807
+admixer.co.kr, 1252, reseller
+admize.io, p_4765925189486858, reseller
+media.net, 8cuiv8d19, reseller
+openx.com, 537100188, reseller, 6a698e2ec38604c6
+rubiconproject.com, 19396, reseller, 0bfd66d529a55807
+consumable.com, 2001602, reseller, aefcd3d2f45b5070
+admanmedia.com, 13, reseller
+triplelift.com, 12456, reseller, 6c33edb13117fd86
+sharethrough.com, xekuhskz, reseller, d53b998a7bd4ecd2
+eyeconicspot.com, 4578, reseller, 2cec374be7db7217
+triplelift.com, 10389, reseller, 6c33edb13117fd86
+smaato.com, 1100049696, reseller, 07bcf65f187117b4
+pubeasy.io, 110047, reseller
+consumable.com, 2001613, reseller, aefcd3d2f45b5070
+trustedstack.com, ts28k5yy0, reseller
