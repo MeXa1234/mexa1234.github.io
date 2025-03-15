@@ -113,3 +113,7 @@ smaato.com, 1100049696, reseller, 07bcf65f187117b4
 pubeasy.io, 110047, reseller
 consumable.com, 2001613, reseller, aefcd3d2f45b5070
 trustedstack.com, ts28k5yy0, reseller
+oko.uk, 56c17539-e5c8-4611-84a8-64b97079b1c1, reseller, b3511ffcafb23a32
+rubiconproject.com, 17974, reseller, 0bfd66d529a55807
+pubmatic.com, 157663, reseller, 5d62403b186f2ace
+appnexus.com, 11111, reseller, f5ab79cb980f11d1
