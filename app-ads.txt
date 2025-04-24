@@ -117,3 +117,12 @@ oko.uk, 56c17539-e5c8-4611-84a8-64b97079b1c1, reseller, b3511ffcafb23a32
 rubiconproject.com, 17974, reseller, 0bfd66d529a55807
 pubmatic.com, 157663, reseller, 5d62403b186f2ace
 appnexus.com, 11111, reseller, f5ab79cb980f11d1
+pubmatic.com, 164187, reseller, 5d62403b186f2ace
+rubiconproject.com, 26144, reseller, 0bfd66d529a55807
+9dotsmedia.com, 4096, reseller
+smartadserver.com, 4543, reseller, 060d053dcf45cbf3
+video.unrulymedia.com, 799061815, reseller
+programmaticx.ai, 205560, reseller, b42d42eb28400efa
+zetaglobal.net, 927, reseller
+video.unrulymedia.com, 640018708, reseller
+adyoulike.com, 02bbfc5dd0707834f452ab1bbe855a83, reseller
