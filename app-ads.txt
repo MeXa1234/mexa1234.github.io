@@ -126,3 +126,54 @@ programmaticx.ai, 205560, reseller, b42d42eb28400efa
 zetaglobal.net, 927, reseller
 video.unrulymedia.com, 640018708, reseller
 adyoulike.com, 02bbfc5dd0707834f452ab1bbe855a83, reseller
+ikqd.net, 1100053848, reseller, 59c49fa9598a0117
+video.unrulymedia.com, 469734233, reseller
+smartadserver.com, 3554, reseller
+adwmg.com, 101277, reseller, c9688a22012618e7
+sharethrough.com, 2f18331a, reseller, d53b998a7bd4ecd2
+themediagrid.com, rix2m5, reseller, 35d5010d7789b49d
+nexverse.ai, 24239, reseller
+pubmatic.com, 166536, reseller, 5d62403b186f2ace
+pubnative.net, 1009046, reseller, d641df8625486a7b
+lijit.com, 465542, reseller, fafdf38b16bf6b2b
+rubiconproject.com, 25978, reseller
+video.unrulymedia.com, 3881266972, reseller
+opera.com, pub12998959884416, reseller, 55a0c5fd61378de3
+pgamssp.com, 67f939e4ab77600bf50713d6, reseller
+pubmatic.com, 162623, reseller, 5d62403b186f2ace
+rubiconproject.com, 24852, reseller, 0bfd66d529a55807
+video.unrulymedia.com, 5921144960123684292, reseller
+aceex.io, 2194, reseller, b1cf3c874d5c6682
+mgid.com, 922286, reseller, d4c29acad76ce94f
+adyoulike.com, c1cb20fa2bbc39a8f2ec564ac0c157f7, reseller
+openx.com, 558899373, reseller, 6a698e2ec38604c6
+triplelift.com, 13482, reseller, 6c33edb13117fd86
+adagio.io, 1529, reseller
+loopme.com, 5679, reseller, 6c8d5f95897a5a3b
+sharethrough.com, oaw69fon, reseller, d53b998a7bd4ecd2
+rubiconproject.com, 19116, reseller, 0bfd66d529a55807
+kidoz.net, 15564, reseller, a109366414b7335e
+kidoz.net, 15467, reseller, a109366414b7335e
+prado.co, 15564, reseller
+pubmatic.com, 159501, reseller, 5d62403b186f2ace
+pubmatic.com, 165438, reseller, 5d62403b186f2ace
+adelement.com, 48362, reseller
+smaato.com, 1100059282, reseller, 07bcf65f187117b4
+rubiconproject.com, 20744, reseller, 0bfd66d529a55807
+triplelift.com, 12158, reseller, 6c33edb13117fd86
+xandr.com, 13799, reseller
+indexexchange.com, 211613, reseller, 50b1c356f2c5c8fc
+richaudience.com, h44h1ypblk, reseller
+appnexus.com, 8233, reseller
+pubmatic.com, 81564, reseller, 5d62403b186f2ace
+vidazoo.com, 6864e2c5609707a223281c6c, reseller, b6ada874b4d7d0b2
+rubiconproject.com, 17130, reseller, 0bfd66d529a55807
+openx.com, 541017750, reseller, 6a698e2ec38604c6
+admanmedia.com, 928, reseller
+taboola.com, 1618213, direct, c228e6794e811952
+rubiconproject.com, 17328, reseller, 0bfd66d529a55807
+rubiconproject.com, 17476, reseller, 0bfd66d529a55807
+media.net, 8cu47mdk1, reseller
+loopme.com, 11524, reseller, 6c8d5f95897a5a3b
+smaato.com, 1100004890, reseller, 07bcf65f187117b4
+appnexus.com, 1752, reseller, f5ab79cb980f11d1
